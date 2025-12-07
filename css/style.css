@@ -13,7 +13,7 @@ header {
     margin-top: 50px;
 }
 
-/* Chrome Text with Neon Glow */
+/* Text with Neon Glow */
 .chrome-text {
     font-family: 'Bungee', sans-serif;
     font-size: 100px;
@@ -100,14 +100,13 @@ h2 {
     margin-bottom: 20px;
 }
 
-/* Make images responsive */
+/* responsive image features */
 .track-image {
     width: 100%;
-    height: auto; /* Let height adjust automatically for responsiveness */
+    height: auto;
     object-fit: cover;
     border-radius: 10px;
     margin-bottom: 10px;
-    /* Removed box-shadow from image */
 }
 
 /* Contact Info */
